@@ -8,8 +8,9 @@ using namespace std;
 //Declaracion de funciones:
 void OrdenamientoBurbuja(int [], int);
 void OrdenamientoShakeSort(int [],int);
-void OrdenamientoInsercionDirecta(int [], int);
+
 void OrdenamientoInsercionBinaria(int [],int);
+aaasa{dsdñlñ
 void OrdenamientoSeleccionDirecta (int [], int);
 void Imprimir(int [], int);
 
